@@ -1,0 +1,15 @@
+C:\Users\bobmi\source\repos\2280603762-TrinhNgocVu\Lap04-01\bin\Debug\Lap04-01.exe.config
+C:\Users\bobmi\source\repos\2280603762-TrinhNgocVu\Lap04-01\bin\Debug\Lap04-01.exe
+C:\Users\bobmi\source\repos\2280603762-TrinhNgocVu\Lap04-01\bin\Debug\Lap04-01.pdb
+C:\Users\bobmi\source\repos\2280603762-TrinhNgocVu\Lap04-01\bin\Debug\EntityFramework.dll
+C:\Users\bobmi\source\repos\2280603762-TrinhNgocVu\Lap04-01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bobmi\source\repos\2280603762-TrinhNgocVu\Lap04-01\bin\Debug\EntityFramework.xml
+C:\Users\bobmi\source\repos\2280603762-TrinhNgocVu\Lap04-01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bobmi\source\repos\2280603762-TrinhNgocVu\Lap04-01\obj\Debug\Lap04-01.csproj.AssemblyReference.cache
+C:\Users\bobmi\source\repos\2280603762-TrinhNgocVu\Lap04-01\obj\Debug\Lap04_01.Form1.resources
+C:\Users\bobmi\source\repos\2280603762-TrinhNgocVu\Lap04-01\obj\Debug\Lap04_01.Properties.Resources.resources
+C:\Users\bobmi\source\repos\2280603762-TrinhNgocVu\Lap04-01\obj\Debug\Lap04-01.csproj.GenerateResource.cache
+C:\Users\bobmi\source\repos\2280603762-TrinhNgocVu\Lap04-01\obj\Debug\Lap04-01.csproj.CoreCompileInputs.cache
+C:\Users\bobmi\source\repos\2280603762-TrinhNgocVu\Lap04-01\obj\Debug\Lap04-01.csproj.Up2Date
+C:\Users\bobmi\source\repos\2280603762-TrinhNgocVu\Lap04-01\obj\Debug\Lap04-01.exe
+C:\Users\bobmi\source\repos\2280603762-TrinhNgocVu\Lap04-01\obj\Debug\Lap04-01.pdb
